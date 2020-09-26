@@ -3,9 +3,8 @@ import React from 'react'
 function Home() {
     return (
         <div className='home'>
-            <p>Hello from the Home Component</p>
             <div className='home_container'>
-                <img src="https://www.aalogics.com/sites/default/files/amazon-web-services-banner.png" alt="Amazon Banner"></img>
+                <img className="home_image" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt="Amazon Banner"></img>
             </div>
         </div>
     )
