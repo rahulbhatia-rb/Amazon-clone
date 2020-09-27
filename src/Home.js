@@ -12,9 +12,9 @@ function Home() {
                 <Product />
             </div>
             <div className="home_row">
-                {/* <Product />
                 <Product />
-                <Product /> */}
+                <Product />
+                <Product />
 
             </div>
 
