@@ -13,7 +13,7 @@ function Product({title,price,image,rating}) {
                 <div className="product_rating star">
                     {Array(rating)
                     .fill()
-                    .map((_,i) => (                        <p>⭐</p>
+                    .map((_,i) => (                        <span role="img" aria-labelledby="star">⭐</span>
 
                     ))}
                      

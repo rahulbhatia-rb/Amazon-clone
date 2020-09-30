@@ -19,7 +19,7 @@ function Home() {
             </div>
 
             <div className="home_row">
-                {/* <Product /> */}
+            <Product id="6" title="Samsung TV" price={40099.00} image="https://images-na.ssl-images-amazon.com/images/I/81644xBqdyL._SL1500_.jpg" rating = {5}/>
 
             </div>
 
